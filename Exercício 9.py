@@ -8,4 +8,4 @@ if codigofuncionario == 3:
 if codigofuncionario == 4:
     print("o funcionário é arquiteto")
 if codigofuncionario == 5:
-    print("o funcionário é piloto de aeronaves")    
+    print("o funcionário é piloto de aeronaves")      

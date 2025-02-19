@@ -4,7 +4,7 @@ imc = peso / (altura * altura)
 
 if imc < 18:
   print("Magreza")
-elif imc < 24.9:
+elif imc < 24.9: 
   print("Saudável")
 elif imc < 29.9:
   print("Sobrepeso")

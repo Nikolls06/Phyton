@@ -5,3 +5,4 @@ for i in range(primeiro,segundo + 1):
     if i % 2 == 1 :
       print(f'os numeros impares são:  {i}')
 
+   

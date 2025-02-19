@@ -11,3 +11,4 @@ elif salario >= 1000 and salario < 2000:
 elif salario >= 2000:
     aumento3 = salario * 1.1
     print("Seu salário sofreu um aumento de 10% e agora está no valor de: ", aumento3)
+   

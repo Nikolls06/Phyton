@@ -5,7 +5,7 @@ aluno = 0
 
 
 for notas in range(6):
-  for alunos in range(6):
+  for alunos in range(6): 
     if aluno< 6:
       aluno = aluno +1
       print("aluno",aluno)

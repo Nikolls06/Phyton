@@ -6,4 +6,4 @@ nota5 = float(input("Digite a quinta nota: "))
 
 media = (nota1 + nota2 + nota3 + nota4 + nota5) / 5
 
-print('a média é: ' , media)
+print('a média é: ' , media) 

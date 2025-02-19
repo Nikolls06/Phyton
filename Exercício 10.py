@@ -6,4 +6,4 @@ if veloMotorista > 50 and veloMotorista <60:
 if veloMotorista >= 60 and veloMotorista <80 :
   print("Você foi multado em R$ 100,00")
 if veloMotorista >= 80:
-  print("Você foi multado em R$ 200,00")    
+  print("Você foi multado em R$ 200,00")       

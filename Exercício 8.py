@@ -6,4 +6,4 @@ if idade >= 12 and idade < 17:
 if idade >= 18 and idade < 59:
     print("Você é adulto:")
 if idade > 59:
-  print("Especialista")
+  print("Especialista") 
