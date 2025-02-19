@@ -27,3 +27,4 @@ for notas in range(6):
 print(f'O total de alunos aprovados é: {aprovados}')
 print(f'O total de alunos reprovados é: {reprovados}')
 print(f'O total de alunos em exame é: {exame}')
+
